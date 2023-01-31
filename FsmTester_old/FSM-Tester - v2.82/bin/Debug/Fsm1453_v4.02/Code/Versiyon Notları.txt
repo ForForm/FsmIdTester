@@ -1,0 +1,166 @@
+
+Versiyon Geçmiþi
+Version v4.02
+	- Yaz, Kýþ saat uygulamasýna göre cihaz saatini ileri geri alma eklendi.
+	- Saat Kontrolünde ayýn 31. güne bakmama eksikliði giderildi.
+	- dll deðiþlikleri ve eklemeler;
+		* Yaz, Kýþ saat bilgilerini cihaza yüklemek için SaveWinSumTime isminde iþlev eklendi.
+			SaveWinSumTime(string TargetIP, int TargetPort, int TargetAddress, DateTime Time, int hour, ClockDir dir, int msTimeOut, Converter cnv)
+		* ClockDir iþlevi;
+			Back  = 0, Saatin geri alýndýðýný belirtir.
+			Forth = 1  Saatin ileri alýndýðýný belirtir.
+			
+Version v4.01
+	- Proxy, mifare 4 ve 7 byte'lýk kartlarda arama iþlevi deðiþtirildi. Daha hýzlý kart bulmasý adýna byte sýralamasý deðiþti.
+	  Proximity,	D0, D1, D2, D3, D4, D5, D6
+	  Mifare 4Byte  D3, D2, D1, D0, D4, D5, D6
+	  Mifare 7Byte  D5, D4, D3, D2, D1, D0, D6
+	- Hak tanýmý, ProAccess ve SmartAccess cihazlarýna, birbirinden farklý 95 adet grup ve bir güne ait 48 farklý saat dilimi eklendi. 
+	  Kaç kere geçsin tarzýnda bi hak söz konusu deðildir. Sadece verilen saat dilimi içerisinde sýnýrsýz geçiþ hakkýna sahiptir.
+	- Hak tanýmda, grup silme ve bütün haklarý silme iþlevi eklendi.
+	- Offline kaydedilen loglarý otomatik olarak, sunucu isteðiyle otomatik gönderme eklendi.
+	- Cihaz online ve sunucuyla bir baðlantýsý olmadýðý durumda, yapýlan sorgu (beyaz led yanma) online timeout süresi kadar bekleme
+	  durumu iyileþtirilerek converter tarafýndan anýndan fsm'e kendi üzerinden offline sorgula eklendi.
+	- Yangýn alarm tetiklenme iþlevinde iyileþtirilme yapýldý.
+	- dll deðiþlikleri ve eklemeler;
+		* GetAccessLog üzerinde deðiþlik yapýldý. v4.01 ve üzerinde.
+		  a - GetAccessLog(string TargetIP, int TargetPort, int TargetAddress, int LogIndex, out byte[] LogPacket, out UInt64 LogID, out DateTime LogTime, out DenyWithReason Reason, out Direction DirState, out FeedBackControl fb, int msTimeOut, Converter cnv)
+		* Yeni hak tanýmýný içeren personel ekleme iþlevi SavePerson eklendi.
+		  a - SavePerson(string TargetIP, int TargetPort, int TargetAddress, UInt64 PersonId, byte StaffGroup, int msTimeOut, Converter cnv)
+		* Access iþlevi SendAccess olarak deðiþtirildi.
+		* Otomatik log gönderme iþlemini baþlatma, durdurma ve ack iþlevi eklendi.
+		  a - ReturnValues SendToStartOfflineLogProcess(string TargetIP, int TargetPort, int TargetAddress, LogsProcess state, int msTimeOut, Converter cnv)
+		  b - LogsProcess içeriði; 
+			 StopSendingLog 	= 0,
+             StartSendingLog	= 1,
+             AckLog 	 		= 2,
+			 NoConnection 		= 3,
+		  c - Gönderilen data paketi;
+		      Paket Uzunluðu 1b --> 0x08	
+			  Gönderim Yönü  1b --> 0x99 (DataStruct.PCToReader)
+			  Cihaz Adresi   1b --> 0x0A (10) 
+			  Uzunluk        1b --> 0x04 (Uzunluk-4)
+			  Komut          1b --> 0xA2 (Commands.OfflineLog)
+			  2. Komut       1b --> 0x00 (2. Komut Yok) 
+			  Data           1b --> 0x01 (StartSendingLog) 
+			  CRC            1b --> 0xC3 (ilk 7 baytý özel veya yapýp çýkan sonucu 255 den çýkarýyoruz)
+		* Test amaçlý tester'a online çalýþma iþlevi eklenmiþtir.
+	
+Version v4.00
+	- Hafýza yapýsý tamamen deðiþti.
+	- Yedek access log hafýzasý eklendi.Kapasitesi 10bin olarak deðiþtirildi.
+	- Event log hafýzasý eklendi.Kapasitesi 56bin olarak deðitrildi.
+	- Blackliste 7 byte id'ye göre düzenlendi.Kapasitesi 28bin olarak deðiþtirildi.
+	- Kiþi sayýsý 50bin, accesslog sayýsý 100bin olarak deðiþtirildi.
+	- Rtc okuma ve doðrulama eklendi.
+	- Sunucudan ayarlanan saat bilgisi yýl bazlý kontrol eklendi.
+	- Rtc hatalý okunduysa event log kaydedip geçiþe izin vermemesi eklendi.
+	- Findperson için kullanýlan 3 farklý fonksiyon tek fonksiyon yazýmýyla düzeltildi.
+	- Kod içerisinde kullanýlmayan komut ve iþlevleri kaldýrýldý.
+	- Rs485 recieve fonksiyonu deðiþtirildi.
+	- Kiþi kaydetme, log çekme vs gibi durumlarda cihaz otomatik servis moda çekmesi eklendi.
+	- Hafýza durumunu gösteren indexler için farklý fonksiyonlar yazýldý.
+	- Flash ve eprom yazma iþlemlerinde doðrulama eklendi.
+	- Access log ve personel toplama fonksionlarý deðiþtirildi.
+	- Fabrika ayarlarýnda eventloglarýn ve yedek accessloglarýn silinmesi engellendi.
+	- dll dosyasýnda güncellemeler yapýldý.
+		* GetLastLogDataNew eski, GetAccessLog yeni versiyonlar için kullanýlmaya devam edecek.
+		* GetBlackPersonID eski, GetBlackList yeni versiyonlar için kullanýlacak.
+		* GetPersonIDNew eski, GetPersonCardID yeni versiyonlar için kullanýlacak.
+		* GetAccessSpareLog eklendi.
+		* GetEventLog eklendi.
+		* EraseAllAccessSparelog eklendi.
+		* EraseAllEventLog eklendi.
+	- Boot Moda geçme fonksiyonu güncellendi.
+	- Bootloader yükleme senaryosu tamamen deðiþti.
+	- Boot tester'ý güncellendi.
+	- Boot testerýnda çoklu fsm kodu yükleme iþlevi eklendi.
+
+----------------------------------------------------------------------------------------------------------------------------
+Version v3.01
+	- Logu flash'a yazarken saat bilgisini tekrar okuma eklendi.
+	- Logu flash'a yazýp verify edemzse fb deðerine 100 yazýlýr buda data hatalý bir sonraki dataya yazdým demektir.
+	- Logu flash'a yazýp verify edemediðinde indexi 1 artýrarak 10 kere deneme eklendi.
+	
+Version v3.00
+	- Logu hafýzaya yazarken iþlem baþarýsýz ise 3 kere deneme eklendi. Ýþlem hala baþarýsýz ise geçiþ vermeyecek.
+	- Kiþi eklemede hafýzaya yazarken iþlem baþarýsýz ise 3 kere deneme eklendi. Ýþlem hala baþarýsýz ise sunucuya kaydedilemedi bilgisi gönderilmesi eklendi.
+	- Cihaz servis moddayken 10sn içinde iþlem yapýlmaz ise cihazýn bir önceki modu neyse ona geri dönmesi eklendi.	
+
+Version v2.99
+	- Logu verify ederek yazma eklendi.
+	- Rs485 üzerinden gelen komutlara verilcek olan yanýt komutu yapýlacak iþlemden sonra gönderilecek þekilde deðiþtirildi.
+	- Bootloader da readdata iþlevi deðiþtirildi.
+	- Bootloader da otomatik reset kaldýrýldý. iþlem bittiyse pc tarafýndan reset atma eklendi.
+	
+Version v2.98
+	- FindPerson metodu içerisinde Proximity/Mifare seçimine göre doðru arama metodu seçmesi saðlandý.
+
+Version v2.97
+	- Indexler yazýlýrken verify edilerek yazýlýr hale getirildi.
+	- Index yazýmýnda global interrupt kapatýlýp iþlem sonunda aktif hale getirildi.
+
+Version v2.96
+	- Accept içerisindeki ButtonControl kaldýrýldý.
+	
+Version v2.95
+	- 4 ve 7 Byte ID için FindPerson fonksiyonu deðiþtirildi.
+	- Format atmadan versiyon kodu ve derleme tarihi görülür hale getirildi.
+	
+Version v2.94
+	- Buzzer sesleri düzeltildi.
+	
+Version v2.93
+	- ID tabanlý ardýþýl okuma engellemedeki hata düzeltildi.  (Authorization.c / Satýr 91 / Düzenleme 293.01)
+	- Optik giriþ ile ilgili düzenleme yapýldý ve buzzer-led hareketleri düzenlendi. Sürüm 2.92'de yapýlan deðiþiklik (buton basýlý olduðu sürece röle ve led açma) geri alýndý.
+	  Bunun yerine normal geçiþ iþlemi yapýlmaktadýr.  (AccessEvents.c / Satýr 29 / Düzenleme 293.02)
+	- Test sýrasýnda cihazýn sessiz çalýþabilmesi için tüm BuzzerOn olan durumlar BUZZERSTATE'e baðlandý. TESTING makrosunun açýlmasý ile sessiz moda alýnabilir.
+	  (Core.h / Satýr 23 / Düzenleme 293.03)
+	- RtcI2CStop, PCB Versiyona uygun olmasý için I2CStop olarak deðiþtirildi. (RTC.c / Satýr 148 / Düzenleme 293.04)
+	- ChangeDateTime içerisinde acknowledge, tarih yazýlýp kontrol edildikten sonra gönderilir hale getirilmiþtir. (RS485.c / Satýr 578 / Düzenleme 293.05)
+	- Doðrulama bilgisinin gönderimi Flash adresine bakýlmaksýzýn, her paket için 800 çevrim bekledikten sonra 2 sefer olacak þekilde düzenlendi.
+	  (Bootloader.c/ Satýr 284 / Düzenleme 293.06)
+
+Version v2.92
+	- Versiyon atamasý sonrasý EEPROM üzerinde DvcInfo otomatik olarak yazýlmaktadýr.  (Database.c / Satýr 49)
+	- OfflineAuthenticate içerisinde BuzzerState girdisinin kontrolü gerçekleþtirildi. (AccessEvents.c / Satýr 23 ve 33)
+	x Optik giriþ olarak buton kullanýmý düzenlendi. Bir kere kabul bilgisi verildikten sonra buton basýlý olduðu sürece röle ve yeþil ýþýk açýk kalmaktadýr. (AccessEvents.c / Satýr 58-59)
+ 
+Version v2.91
+	- IdBased 7 byte lý kartlarda çalýþýrmýyordu güncellendi.
+
+Version v2.90
+	- EventDoor(kapý açýk-kapalý bilgisi online)
+	- EmergencyExit(acil çýkýþ converter ve fsm eþ zamanlý eklendi. converterýn röleside takýlacak.)
+
+Version v2.89
+	-idbased ve oneread 7 byte id'ler için güncellendi.
+
+Version v2.87
+	- Optik FeedBack Eklendi.
+	- AntiPassBack ile FeedBack Eklendi.
+
+Version v2.86
+	- Log Hafýzasý doldu uyarýsý,
+	- Kilitlenme olayý(spi),
+	- Findindex güncellendi.
+	- DeviceInfo Bilgileri güncellendi.
+	- FlashUpdater Güncellendi.(hex yükleme, DeviceInfo, iplisteleme)
+	- FsmTester Güncellendi.(Cihazgrubu, iplisteleme, DeviceInfo)
+	- AntipassBack güncellendi.(Kýrmýzý mavi led yanarsa giriþ yada çýkýþ yapmanýz anlamýna gelmektedir.)
+	- online iken beyaz dan sonra mavi ardýndan yeþil yanarsa cihaz offSatýr cevap vermiþ demektir.
+	- Key bilgileri okuma eklendi.
+
+Version v2.85
+	- Gruplandýrma eklendi.(TimeAcc, ProAcc, SmartAcc)
+	- Saat Arýza Kontrolü eklendi.
+	- 7 byte eklendi
+	- Personel sayýsý arttýrýldý,
+	- Log kapasitesi düþürüldü.
+	- Smart relay ekledni.
+
+Version v2.81
+	- Unlimited'a AntiPass Back eklendi.
+	- AntiPass Back Buzzer sesi deðiþtirildi.(amaç cihazýn hangi konumdayken not access verdiðini anlamak)
+	- Smart Relay Kontrolü eklendi.
+	- AntiPass Back Hariç diðer özellikler Proximity'e eklendi.

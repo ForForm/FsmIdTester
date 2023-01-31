@@ -1,0 +1,6 @@
+E:\SVN_Projeler\FsmTester\FSMLibrary\bin\Release\Fsm485.dll
+E:\SVN_Projeler\FsmTester\FSMLibrary\bin\Release\Fsm485.pdb
+E:\SVN_Projeler\FsmTester\FSMLibrary\obj\Release\FsmLibrary.csprojResolveAssemblyReference.cache
+E:\SVN_Projeler\FsmTester\FSMLibrary\obj\Release\FsmLibrary.csproj.CoreCompileInputs.cache
+E:\SVN_Projeler\FsmTester\FSMLibrary\obj\Release\Fsm485.dll
+E:\SVN_Projeler\FsmTester\FSMLibrary\obj\Release\Fsm485.pdb

@@ -1,0 +1,8 @@
+F:\SVN_Projeler\FsmTester\BinFileGenerator\bin\Debug\BinFileGenerator.exe
+F:\SVN_Projeler\FsmTester\BinFileGenerator\bin\Debug\BinFileGenerator.pdb
+F:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Debug\BinFileGenerator.csprojResolveAssemblyReference.cache
+F:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Debug\BinFileGenerator.Form1.resources
+F:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Debug\BinFileGenerator.Properties.Resources.resources
+F:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Debug\BinFileGenerator.csproj.GenerateResource.Cache
+F:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Debug\BinFileGenerator.exe
+F:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Debug\BinFileGenerator.pdb

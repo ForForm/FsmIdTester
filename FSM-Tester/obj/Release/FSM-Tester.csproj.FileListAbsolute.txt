@@ -1,0 +1,5 @@
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Release\FSM-Tester.csprojResolveAssemblyReference.cache
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Release\FSM_Authorization.Form1.resources
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Release\FSM.Properties.Resources.resources
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Release\FSM-Tester.csproj.GenerateResource.Cache
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Release\FSM-Tester.csproj.CoreCompileInputs.cache

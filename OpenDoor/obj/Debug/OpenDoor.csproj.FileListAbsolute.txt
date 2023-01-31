@@ -1,0 +1,20 @@
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.csprojResolveAssemblyReference.cache
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.resources
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Properties.Resources.resources
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.th.resources
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.tr-TR.resources
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.csproj.GenerateResource.Cache
+E:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.csprojResolveAssemblyReference.cache
+E:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.resources
+E:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Properties.Resources.resources
+E:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.th.resources
+E:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.tr-TR.resources
+E:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.csproj.GenerateResource.Cache
+E:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.csproj.CoreCompileInputs.cache
+D:\Projeler\Software\B01. TTFsm\OpenDoor\obj\Debug\OpenDoor.csprojAssemblyReference.cache
+D:\Projeler\Software\B01. TTFsm\OpenDoor\obj\Debug\OpenDoor.Form1.resources
+D:\Projeler\Software\B01. TTFsm\OpenDoor\obj\Debug\OpenDoor.Properties.Resources.resources
+D:\Projeler\Software\B01. TTFsm\OpenDoor\obj\Debug\OpenDoor.Form1.th.resources
+D:\Projeler\Software\B01. TTFsm\OpenDoor\obj\Debug\OpenDoor.Form1.tr-TR.resources
+D:\Projeler\Software\B01. TTFsm\OpenDoor\obj\Debug\OpenDoor.csproj.GenerateResource.cache
+D:\Projeler\Software\B01. TTFsm\OpenDoor\obj\Debug\OpenDoor.csproj.CoreCompileInputs.cache

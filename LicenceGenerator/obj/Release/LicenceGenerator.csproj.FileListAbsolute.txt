@@ -1,0 +1,11 @@
+E:\SVN_Projeler\FsmTester\LicenceGenerator\bin\Release\LicenceGenerator.exe.config
+E:\SVN_Projeler\FsmTester\LicenceGenerator\bin\Release\LicenceGenerator.exe
+E:\SVN_Projeler\FsmTester\LicenceGenerator\bin\Release\LicenceGenerator.pdb
+E:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Release\LicenceGenerator.csprojResolveAssemblyReference.cache
+E:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Release\LicenceGenerator.z.resources
+E:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Release\LicenceGenerator.HexValue.resources
+E:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Release\LicenceGenerator.Properties.Resources.resources
+E:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Release\LicenceGenerator.csproj.GenerateResource.Cache
+E:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Release\LicenceGenerator.csproj.CoreCompileInputs.cache
+E:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Release\LicenceGenerator.exe
+E:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Release\LicenceGenerator.pdb

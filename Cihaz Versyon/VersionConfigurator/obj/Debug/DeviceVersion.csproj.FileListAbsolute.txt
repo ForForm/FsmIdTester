@@ -1,0 +1,94 @@
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\obj\Debug\DeviceVersion.csproj.GenerateResource.Cache
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\obj\Debug\TesterCharge.exe
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\obj\Debug\TesterCharge.pdb
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\bin\Debug\TesterCharge.exe
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\bin\Debug\TesterCharge.pdb
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\bin\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\bin\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\obj\Debug\BarkodesDeviceVerison.Form1.resources
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\obj\Debug\BarkodesDeviceVerison.Properties.Resources.resources
+E:\PROJELER\Software\Cihaz Versyon\TesterCharge\bin\Debug\TesterCharge.exe.config
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Form1.resources
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Properties.Resources.resources
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csproj.GenerateResource.Cache
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe.config
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.pdb
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.exe
+E:\PROJELER\Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.pdb
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Form1.resources
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Properties.Resources.resources
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe.config
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.pdb
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.dll
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.pdb
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.exe
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.pdb
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe.config
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.exe
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.pdb
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.pdb
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.dll
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.pdb
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\ResolveAssemblyReference.cache
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Form1.resources
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Properties.Resources.resources
+E:\SVN\Bilal\Guncel\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csproj.GenerateResource.Cache
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe.config
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.exe
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.dll
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csprojResolveAssemblyReference.cache
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Form1.resources
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Properties.Resources.resources
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csproj.GenerateResource.Cache
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x86\DeviceVersionConfig.exe.config
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x86\DeviceVersionConfig.exe
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x86\DeviceVersionConfig.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x86\ConfigManagerLibrary.dll
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x86\ConfigManagerLibrary.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x64\DeviceVersionConfig.exe.config
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x64\DeviceVersionConfig.exe
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x64\DeviceVersionConfig.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x64\ConfigManagerLibrary.dll
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x64\ConfigManagerLibrary.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x64\rfMultiLibrary.dll
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\VersionConfigurator\bin\Debug\x86\rfMultiLibrary.dll
+C:\Users\hasana\Google Drive\Barkodes\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\x86\DeviceVersionConfig.exe.config
+C:\Users\hasana\Google Drive\Barkodes\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.exe
+C:\Users\hasana\Google Drive\Barkodes\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.pdb
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe.config
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.pdb
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.dll
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.pdb
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csprojResolveAssemblyReference.cache
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Form1.resources
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Properties.Resources.resources
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csproj.GenerateResource.Cache
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.exe
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.pdb
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.dll
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.pdb
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\ConfigManagerLibrary.dll.config
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csprojResolveAssemblyReference.cache
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Form1.resources
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\BarkodesDeviceVerison.Properties.Resources.resources
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csproj.GenerateResource.Cache
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersion.csproj.CoreCompileInputs.cache
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.exe
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\obj\Debug\DeviceVersionConfig.pdb
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe.config
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.exe
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\VersionConfigurator\bin\Debug\DeviceVersionConfig.pdb

@@ -1,0 +1,10 @@
+E:\SVN_Projeler\FsmTester\BinFileGenerator\bin\Release\BinFileGenerator.exe.config
+E:\SVN_Projeler\FsmTester\BinFileGenerator\bin\Release\BinFileGenerator.exe
+E:\SVN_Projeler\FsmTester\BinFileGenerator\bin\Release\BinFileGenerator.pdb
+E:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Release\BinFileGenerator.csprojResolveAssemblyReference.cache
+E:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Release\BinFileGenerator.Form1.resources
+E:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Release\BinFileGenerator.Properties.Resources.resources
+E:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Release\BinFileGenerator.csproj.GenerateResource.Cache
+E:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Release\BinFileGenerator.csproj.CoreCompileInputs.cache
+E:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Release\BinFileGenerator.exe
+E:\SVN_Projeler\FsmTester\BinFileGenerator\obj\Release\BinFileGenerator.pdb

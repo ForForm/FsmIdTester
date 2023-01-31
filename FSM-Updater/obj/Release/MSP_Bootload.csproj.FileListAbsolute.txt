@@ -1,0 +1,6 @@
+E:\SVN_Projeler\FsmTester\FSM-Updater\obj\Release\MSP_Bootload.csprojResolveAssemblyReference.cache
+E:\SVN_Projeler\FsmTester\FSM-Updater\obj\Release\FSM_Authorization.Boot.resources
+E:\SVN_Projeler\FsmTester\FSM-Updater\obj\Release\FSM_Authorization.Form1.resources
+E:\SVN_Projeler\FsmTester\FSM-Updater\obj\Release\FSM.Properties.Resources.resources
+E:\SVN_Projeler\FsmTester\FSM-Updater\obj\Release\MSP_Bootload.csproj.GenerateResource.Cache
+E:\SVN_Projeler\FsmTester\FSM-Updater\obj\Release\MSP_Bootload.csproj.CoreCompileInputs.cache

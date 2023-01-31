@@ -1,0 +1,6 @@
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.csprojResolveAssemblyReference.cache
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.resources
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Properties.Resources.resources
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.th.resources
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.Form1.tr-TR.resources
+F:\SVN_Projeler\FsmTester\OpenDoor\obj\Debug\OpenDoor.csproj.GenerateResource.Cache

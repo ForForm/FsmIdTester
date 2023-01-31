@@ -1,0 +1,13 @@
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\FSM-Authorization.exe.config
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\FSM-Authorization.exe
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\FSM-Authorization.pdb
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\Fsm485.dll
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\rfMultiLibrary.dll
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\Fsm485.pdb
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\rfMultiLibrary.pdb
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Tester.csprojResolveAssemblyReference.cache
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM_Authorization.Form1.resources
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM.Properties.Resources.resources
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Tester.csproj.GenerateResource.Cache
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Authorization.exe
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Authorization.pdb

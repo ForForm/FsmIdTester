@@ -1,0 +1,12 @@
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\bin\Debug\TesterCharge.exe
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\bin\Debug\TesterCharge.pdb
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\bin\Debug\ManagedPointOfCharge.dll
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\bin\Debug\Cryption.dll
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\bin\Debug\ManagedPointOfCharge.pdb
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\bin\Debug\Cryption.pdb
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\obj\Debug\TesterCharge.Form1.resources
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\obj\Debug\TesterCharge.Properties.Resources.resources
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\obj\Debug\TesterCharge.csproj.GenerateResource.Cache
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\obj\Debug\TesterCharge.exe
+E:\PROJELER\Software\Cezeri Soft\TesterCharge\obj\Debug\TesterCharge.pdb

@@ -1,0 +1,9 @@
+F:\SVN_Projeler\FsmTester\LicenceGenerator\bin\Debug\LicenceGenerator.exe
+F:\SVN_Projeler\FsmTester\LicenceGenerator\bin\Debug\LicenceGenerator.pdb
+F:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Debug\LicenceGenerator.csprojResolveAssemblyReference.cache
+F:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Debug\LicenceGenerator.z.resources
+F:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Debug\LicenceGenerator.HexValue.resources
+F:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Debug\LicenceGenerator.Properties.Resources.resources
+F:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Debug\LicenceGenerator.csproj.GenerateResource.Cache
+F:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Debug\LicenceGenerator.exe
+F:\SVN_Projeler\FsmTester\LicenceGenerator\obj\Debug\LicenceGenerator.pdb

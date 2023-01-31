@@ -1,0 +1,30 @@
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll.config
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.pdb
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.dll
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.pdb
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll.config
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.pdb
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.dll
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.pdb
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll.config
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.pdb
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.dll
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll.config
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll.config
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.pdb

@@ -1,0 +1,12 @@
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll.config
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.pdb
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll.config
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.dll
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Release\ConfigManagerLibrary.pdb
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.dll
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Release\ConfigManagerLibrary.pdb

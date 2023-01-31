@@ -1,0 +1,48 @@
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+D:\Projects\rfADMIN_v2\Software\ConfigManagerLibrary\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+D:\Proje\Software\Cezeri Soft\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+E:\Proje\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cezeri Soft\vs9\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+D:\PROJELER\Dotnet\Rfbio\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+D:\PROJELER\Dotnet\Rfbio\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+D:\PROJELER\Dotnet\Rfbio\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+D:\PROJELER\Dotnet\Rfbio\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJELER\Dotnet\Rfbio\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+D:\PROJELER\Dotnet\Rfbio\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cezeri Soft\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+D:\Temp\___Proje Yedek\Rfbio\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+D:\Temp\___Proje Yedek\Rfbio\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+D:\Temp\___Proje Yedek\Rfbio\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+D:\Temp\___Proje Yedek\Rfbio\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Temp\___Proje Yedek\Rfbio\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+D:\Temp\___Proje Yedek\Rfbio\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb

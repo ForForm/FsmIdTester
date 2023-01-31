@@ -1,0 +1,34 @@
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\FSM-Authorization.exe.config
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\FSM-Authorization.exe
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\FSM-Authorization.pdb
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\Fsm485.dll
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\rfMultiLibrary.dll
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\Fsm485.pdb
+F:\SVN_Projeler\FsmTester\FSM-Tester\bin\Debug\rfMultiLibrary.pdb
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Tester.csprojResolveAssemblyReference.cache
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM_Authorization.Form1.resources
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM.Properties.Resources.resources
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Tester.csproj.GenerateResource.Cache
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Authorization.exe
+F:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Authorization.pdb
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Tester.csprojResolveAssemblyReference.cache
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM_Authorization.Form1.resources
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM.Properties.Resources.resources
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Tester.csproj.GenerateResource.Cache
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Tester.csproj.CoreCompileInputs.cache
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Authorization.exe
+E:\SVN_Projeler\FsmTester\FSM-Tester\obj\Debug\FSM-Authorization.pdb
+D:\Projeler\Software\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Tester.csprojAssemblyReference.cache
+D:\Projeler\Software\B01. TTFsm\FSM-Tester\obj\Debug\FSM_Authorization.Form1.resources
+D:\Projeler\Software\B01. TTFsm\FSM-Tester\obj\Debug\FSM.Properties.Resources.resources
+D:\Projeler\Software\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Tester.csproj.GenerateResource.cache
+D:\Projeler\Software\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Tester.csproj.CoreCompileInputs.cache
+D:\Projeler\Software\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Authorization.exe
+D:\Projeler\Software\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Authorization.pdb
+E:\Projects\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Tester.csprojAssemblyReference.cache
+E:\Projects\B01. TTFsm\FSM-Tester\obj\Debug\FSM_Authorization.Form1.resources
+E:\Projects\B01. TTFsm\FSM-Tester\obj\Debug\FSM.Properties.Resources.resources
+E:\Projects\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Tester.csproj.GenerateResource.cache
+E:\Projects\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Tester.csproj.CoreCompileInputs.cache
+E:\Projects\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Authorization.exe
+E:\Projects\B01. TTFsm\FSM-Tester\obj\Debug\FSM-Authorization.pdb

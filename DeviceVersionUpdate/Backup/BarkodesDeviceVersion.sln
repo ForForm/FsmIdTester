@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CezeriLightLibrary", "ConfigManagerLibrary\CezeriLightLibrary.csproj", "{A8669DF3-51B0-49A9-9B59-34D370F9F4BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeviceVersion", "VersionConfigurator\DeviceVersion.csproj", "{B1EE94B4-A27B-4110-B021-E62DB27476F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8669DF3-51B0-49A9-9B59-34D370F9F4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8669DF3-51B0-49A9-9B59-34D370F9F4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8669DF3-51B0-49A9-9B59-34D370F9F4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8669DF3-51B0-49A9-9B59-34D370F9F4BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EE94B4-A27B-4110-B021-E62DB27476F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EE94B4-A27B-4110-B021-E62DB27476F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EE94B4-A27B-4110-B021-E62DB27476F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EE94B4-A27B-4110-B021-E62DB27476F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

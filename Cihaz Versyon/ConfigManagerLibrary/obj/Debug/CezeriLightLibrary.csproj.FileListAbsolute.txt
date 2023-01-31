@@ -1,0 +1,37 @@
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+E:\PROJELER\Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+C:\Users\Bilal\Desktop\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+E:\SVN\Bilal\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+E:\SVN\Bilal\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+E:\SVN\Bilal\Guncel\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+E:\SVN\Bilal\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\SVN\Bilal\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+E:\SVN\Bilal\Guncel\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+D:\SVN\Bilal\Guncel\Projeler\Cezeri\SoftWare\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\CezeriLightLibrary.csprojResolveAssemblyReference.cache
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\rfMultiLibrary.dll
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+F:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.dll.config
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\ConfigManagerLibrary.pdb
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\bin\Debug\rfMultiLibrary.dll
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\CezeriLightLibrary.csproj.CoreCompileInputs.cache
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.dll
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\ConfigManagerLibrary.pdb
+E:\FirmWare\Projects\03. TTFsm1453\03. Software\Cihaz Versyon\ConfigManagerLibrary\obj\Debug\CezeriLightLibrary.csprojResolveAssemblyReference.cache

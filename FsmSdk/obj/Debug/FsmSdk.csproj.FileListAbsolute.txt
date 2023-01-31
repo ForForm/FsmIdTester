@@ -1,0 +1,5 @@
+F:\SVN_Projeler\FsmTester\FsmSdk\bin\Debug\FsmSdk.dll
+F:\SVN_Projeler\FsmTester\FsmSdk\bin\Debug\FsmSdk.pdb
+F:\SVN_Projeler\FsmTester\FsmSdk\obj\Debug\FsmSdk.csprojResolveAssemblyReference.cache
+F:\SVN_Projeler\FsmTester\FsmSdk\obj\Debug\FsmSdk.dll
+F:\SVN_Projeler\FsmTester\FsmSdk\obj\Debug\FsmSdk.pdb
